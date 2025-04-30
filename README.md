@@ -24,5 +24,6 @@ I'm Pollyanna Melo. I am from Brazil. I am an Information Systems.
   <a href="https://github.com/pollymelo">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollymelo&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pollymelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=pollymelo&show_icons=true&theme=dracula&include_all_commits=true"/>
   </a>
 </div>
