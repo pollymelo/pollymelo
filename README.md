@@ -21,3 +21,4 @@ I'm Pollyanna Melo. I am from Brazil. I am an Information Systems.
 <a href = "pollymoreira_@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pollymelo&show_icons=true&theme=dracula&include_all_commits=true"/>
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollymelo&layout=compact&langs_count=7&theme=dracula"/>
