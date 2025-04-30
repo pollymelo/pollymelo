@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm **Pollyanna Melo** from Brazil 🇧🇷. I'm a student of **Information Systems**.
+I'm **Pollyanna Melo** from Brazil. I'm a student of **Information Systems**.
 
 - 🌱 I’m currently learning **Python**, **Statistics**, and **Java**  
 - 💬 Ask me about **Data Science**  
