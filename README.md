@@ -28,7 +28,6 @@ I'm **Pollyanna Melo** from Brazil. I'm a student of **Information Systems**.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollymelo&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pollymelo&show_icons=true&theme=dracula&include_all_commits=true"/>
 </div>
 
