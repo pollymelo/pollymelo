@@ -10,7 +10,7 @@
 
 ## 🌎 Languages
 <p> <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="30"/> Portuguese - Native <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" width="30"/> English - Advanced <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="30"/> Spanish - Intermediate <br/> <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="30"/> German - Basic </p>
-
+<b> 
 ## 🔗 Connect with Me
 
 <p align="center">
@@ -29,10 +29,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pollymelo&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pollymelo&theme=dracula" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
