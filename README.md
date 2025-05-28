@@ -14,7 +14,7 @@
 
 ## 🌎 Languages
 
-<p> <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="30"/> Portuguese - Native <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" width="30"/> English - Advanced <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="30"/> Spanish - Intermediate <br/> <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="30"/> German - Basic </p>
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="30"/> Portuguese - Native <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" width="30"/> English - Advanced <br/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" width="30"/> Spanish - Intermediate <br/> <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="30"/> German - Basic </p>
 
 
 ## 🔗 Connect with Me
