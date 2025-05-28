@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Pollyanna Melo and my nickname is Polly!
 
-- 🌱 I’m currently learning Python, Javascript, Java and German
+- 🌱 I’m currently learning Python, Javascript and Java 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a degree in Cinema
 
