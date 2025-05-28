@@ -20,7 +20,7 @@
   <a href="mailto:pollymoreira_@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://github.com/SeuUsuario">
+  <a href="https://github.com/pollymelo">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
