@@ -7,7 +7,6 @@ I’m an Information Systems student passionate about:
 
 - 📊 Data Analytics & Business Intelligence
 - 🤖 Artificial Intelligence & Computer Vision
-- 💻 Software Development
 - 📈 Data-Driven Solutions
 
 I also have a background in 🎬 Cinema, which helped me develop creativity, storytelling, communication, and visual analysis skills that I now apply to technology and data projects.
