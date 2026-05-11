@@ -17,7 +17,6 @@ I also have a background in 🎬 Cinema, which helped me develop creativity, sto
 ## 🌱 Currently Learning
 
 - Python for Data Science & AI
-- JavaScript & React
 - Java & Spring Boot
 - Machine Learning & Computer Vision
 - SQL & Database Modeling
@@ -32,7 +31,6 @@ I also have a background in 🎬 Cinema, which helped me develop creativity, sto
 - 👁️ Computer Vision
 - 📈 Business Intelligence
 - 🏗️ Data Engineering
-- 🌐 Full Stack Development
 - 🔐 Data Privacy & Security
 
 ---
